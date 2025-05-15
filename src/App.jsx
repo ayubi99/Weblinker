@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 import CTA from "./components/CTA";
 import Footer from "./components/Footer";
 import Backlinks from "./components/Backlinks";
-import AboutUs from "./components/Aboutus";
+import AboutUs from "./components/AboutUs";
 
 function App() {
   return (
